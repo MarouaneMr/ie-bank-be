@@ -28,4 +28,4 @@ class DevelopmentConfig(Config):
 class ProductionConfig(Config):
   DEBUG = False
 
-  # chec 
+  # che
